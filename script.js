@@ -12,6 +12,8 @@ below
 3. Create an array 'tips' containing the tip value for each bill, calculated from
 the function you created before
 4. Bonus: Create an array 'total' containing the total values, so the bill + tip
+
+Test data: 125, 555 and 44
 */
 
 
