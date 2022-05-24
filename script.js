@@ -32,3 +32,5 @@ const calcTip = function(bill) {
 calcTip(10);
 
 const bills = [125, 555, 44];
+
+const totalTips = [calcTip(bills[0]), calcTip(bills[1]), calcTip(bills[2])];
