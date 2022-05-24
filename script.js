@@ -13,3 +13,18 @@ below
 the function you created before
 4. Bonus: Create an array 'total' containing the total values, so the bill + tip
 */
+
+
+const calcTip = function(bill) {
+    if (bill >= 300 && bill <= 50) {
+        const totalTip15 = (bill * 15) / 100;
+        console.log(`The total tip is ${totalTip}`)
+       return 
+    } else {
+        const totalTip20 = (bill * 20) / 100;
+        console.log(`The total tip is ${totalTip2}`)
+       return
+    }
+}
+
+calcTip(10);
