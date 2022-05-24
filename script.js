@@ -18,11 +18,11 @@ the function you created before
 const calcTip = function(bill) {
     if (bill >= 300 && bill <= 50) {
         const totalTip15 = (bill * 15) / 100;
-        console.log(`The total tip is ${totalTip}`)
+        console.log(`The total tip is ${totalTip15}`)
        return 
     } else {
         const totalTip20 = (bill * 20) / 100;
-        console.log(`The total tip is ${totalTip2}`)
+        console.log(`The total tip is ${totalTip20}`)
        return
     }
 }
