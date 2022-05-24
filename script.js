@@ -30,3 +30,5 @@ const calcTip = function(bill) {
 }
 
 calcTip(10);
+
+const bills = [125, 555, 44];
