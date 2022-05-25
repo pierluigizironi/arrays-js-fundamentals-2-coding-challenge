@@ -34,3 +34,8 @@ calcTip(10);
 const bills = [125, 555, 44];
 
 const tips = [calcTip(bills[0]), calcTip(bills[1]), calcTip(bills[2])];
+
+const total = [25 + 125, 555 + 111, 44 + 8.8 ];
+
+console.log(total);
+console.log(total1);
